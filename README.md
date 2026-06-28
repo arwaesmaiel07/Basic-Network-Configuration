@@ -1,5 +1,5 @@
 # Basic Network Configuration using Cisco Packet Tracer
-
+![Network Topology](topology.pro3.png.jpg)
 ## Project Overview
 
 This project demonstrates the basic configuration of a small network using Cisco Packet Tracer.
